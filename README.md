@@ -1,4 +1,4 @@
-# PostgreSQL Data Warehouse Project
+# Sales Data Warehouse Project - PostgreSQL
 
 ## Project Overview
 This project demonstrates the development of a data warehouse using PostgreSQL, focusing on the ETL (Extract, Transform, Load) processes. The data warehouse is designed to store sales data across three schema layers: landing, staging, and core. This multi-layered architecture ensures efficient data processing, transformation, and storage.
